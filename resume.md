@@ -1,10 +1,10 @@
-# Your Name
+# Xining Yang
 
-1234 Main St., City, State 12345
+123 King Hall
 
-(555) 555-5555
+(734) 487-8486
 
-your.name@example.com
+xyang5@emich.edu
 
 http://www.example.com
 
